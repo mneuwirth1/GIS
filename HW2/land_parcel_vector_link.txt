@@ -1,0 +1,1 @@
+https://data.townofcary.org/explore/dataset/property/information/?disjunctive.apaownershipdesc&disjunctive.apasitedesc&disjunctive.county&disjunctive.phycity&location=9,35.75271,-78.8857&basemap=jawg.streets
